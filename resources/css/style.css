@@ -10,7 +10,27 @@ h1 {
   font-size: 50px;
 }
 
-p.applink {
-  color: Aquamarine;
-  font-size: 16px;
+.applink {
+    font-size: 16px;
+}
+
+a:link {
+  color: aquamarine;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+
 }
