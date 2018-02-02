@@ -1,7 +1,7 @@
 body {
   background-color: black;
   text-align: center;
-  font-family: Verdana;
+  font-family: "Verdana", sans-serif;
 }
 
 h1 {
@@ -10,12 +10,10 @@ h1 {
   font-size: 50px;
 }
 
-.applink {
-    font-size: 16px;
-}
 
-a:link {
+.applink {
   color: aquamarine;
+  font-size: 16px;
 }
 
 h3 {
@@ -33,4 +31,9 @@ h2 {
   text-align: right;
   color: gray;
 
+}
+
+.footer {
+  text-align: right;
+  color: gray;
 }
